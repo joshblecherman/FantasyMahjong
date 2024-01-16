@@ -15,10 +15,31 @@
 .topnav a:hover {
     text-decoration: underline;
 }
-
 #title {
     font-family: 'Saira Condensed', serif;
     font-size: 32px;
     font-weight: 700;
     float: left;
+}
+
+#content-body {
+    padding-top: 75px;
+}
+
+h1 {
+    font-family: 'Saira Condensed', serif;
+    font-size: 28px;
+    font-weight: 500;
+    float: left;
+}
+
+form {
+    font-family: 'Saira Condensed', serif;
+    font-size: 16px;
+    font-weight: 500;
+    float: left;
+}
+
+html {
+    background-color: rgb(160, 160, 175);
 }
